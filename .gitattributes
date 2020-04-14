@@ -26,3 +26,6 @@
 *.jar           binary
 *.so            binary
 *.war           binary
+
+*.css linguist-detectable=false
+*.js linguist-detectable=true
