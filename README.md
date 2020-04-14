@@ -1,6 +1,6 @@
 # Locadora (Serviço)
 
-Projeto criado para um trabalho da faculdade na disciplina de Desenvolvimento Web.
+Projeto referente a uma locadora de filmes, criado para um trabalho da faculdade na disciplina de Desenvolvimento Web.
 
 Observações:
 - Utiliza o Hibernate.
